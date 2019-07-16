@@ -10,4 +10,4 @@
 * Winner <br><br>
 ![Dice Game start](https://github.com/emmanuelcodev/ios_projects/blob/master/screen_shots/winner.png)
 * No Winners - A Tie <br><br>
-![Dice Gam
+![Dice Game start](https://github.com/emmanuelcodev/ios_projects/blob/master/screen_shots/draw.png)
