@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		14B930E922F24F1C0069BE0F /* yellow.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 14B930E222F24F1B0069BE0F /* yellow.m4a */; };
+		14B930EA22F24F1C0069BE0F /* green.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 14B930E322F24F1B0069BE0F /* green.m4a */; };
+		14B930EB22F24F1C0069BE0F /* orange.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 14B930E422F24F1B0069BE0F /* orange.m4a */; };
+		14B930EC22F24F1C0069BE0F /* purple.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 14B930E522F24F1B0069BE0F /* purple.m4a */; };
+		14B930ED22F24F1C0069BE0F /* blue.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 14B930E622F24F1B0069BE0F /* blue.m4a */; };
+		14B930EE22F24F1C0069BE0F /* red.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 14B930E722F24F1B0069BE0F /* red.m4a */; };
+		14B930EF22F24F1C0069BE0F /* darkGreen.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 14B930E822F24F1C0069BE0F /* darkGreen.m4a */; };
+		14B930F422F4EB710069BE0F /* gameStarts.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 14B930F022F4EB710069BE0F /* gameStarts.m4a */; };
+		14B930F522F4EB710069BE0F /* nextLevel.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 14B930F122F4EB710069BE0F /* nextLevel.m4a */; };
+		14B930F622F4EB710069BE0F /* youWon.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 14B930F222F4EB710069BE0F /* youWon.m4a */; };
+		14B930F722F4EB710069BE0F /* youLost.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 14B930F322F4EB710069BE0F /* youLost.m4a */; };
 		63C019C91C58DF76001F4187 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63C019C81C58DF76001F4187 /* AppDelegate.swift */; };
 		63C019CB1C58DF76001F4187 /*  VIewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63C019CA1C58DF76001F4187 /*  VIewController.swift */; };
 		63C019CE1C58DF76001F4187 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63C019CC1C58DF76001F4187 /* Main.storyboard */; };
@@ -23,6 +34,17 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		14B930E222F24F1B0069BE0F /* yellow.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = yellow.m4a; sourceTree = "<group>"; };
+		14B930E322F24F1B0069BE0F /* green.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = green.m4a; sourceTree = "<group>"; };
+		14B930E422F24F1B0069BE0F /* orange.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = orange.m4a; sourceTree = "<group>"; };
+		14B930E522F24F1B0069BE0F /* purple.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = purple.m4a; sourceTree = "<group>"; };
+		14B930E622F24F1B0069BE0F /* blue.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = blue.m4a; sourceTree = "<group>"; };
+		14B930E722F24F1B0069BE0F /* red.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = red.m4a; sourceTree = "<group>"; };
+		14B930E822F24F1C0069BE0F /* darkGreen.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = darkGreen.m4a; sourceTree = "<group>"; };
+		14B930F022F4EB710069BE0F /* gameStarts.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = gameStarts.m4a; sourceTree = "<group>"; };
+		14B930F122F4EB710069BE0F /* nextLevel.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = nextLevel.m4a; sourceTree = "<group>"; };
+		14B930F222F4EB710069BE0F /* youWon.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = youWon.m4a; sourceTree = "<group>"; };
+		14B930F322F4EB710069BE0F /* youLost.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = youLost.m4a; sourceTree = "<group>"; };
 		63C019C51C58DF76001F4187 /* Xylophone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Xylophone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63C019C81C58DF76001F4187 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		63C019CA1C58DF76001F4187 /*  VIewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " VIewController.swift"; sourceTree = "<group>"; };
@@ -54,6 +76,17 @@
 		6385B12D1C68C76C00E57640 /* Sound Files */ = {
 			isa = PBXGroup;
 			children = (
+				14B930F022F4EB710069BE0F /* gameStarts.m4a */,
+				14B930F122F4EB710069BE0F /* nextLevel.m4a */,
+				14B930F322F4EB710069BE0F /* youLost.m4a */,
+				14B930F222F4EB710069BE0F /* youWon.m4a */,
+				14B930E622F24F1B0069BE0F /* blue.m4a */,
+				14B930E822F24F1C0069BE0F /* darkGreen.m4a */,
+				14B930E322F24F1B0069BE0F /* green.m4a */,
+				14B930E422F24F1B0069BE0F /* orange.m4a */,
+				14B930E522F24F1B0069BE0F /* purple.m4a */,
+				14B930E722F24F1B0069BE0F /* red.m4a */,
+				14B930E222F24F1B0069BE0F /* yellow.m4a */,
 				63C019E81C58E4AD001F4187 /* note1.wav */,
 				63C019E91C58E4AD001F4187 /* note2.wav */,
 				63C019EA1C58E4AD001F4187 /* note3.wav */,
@@ -128,6 +161,7 @@
 				TargetAttributes = {
 					63C019C41C58DF76001F4187 = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = THL5LK5CWS;
 						LastSwiftMigration = 1020;
 					};
 				};
@@ -155,17 +189,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				14B930EA22F24F1C0069BE0F /* green.m4a in Resources */,
 				63C019F41C58E4AD001F4187 /* note6.wav in Resources */,
+				14B930EC22F24F1C0069BE0F /* purple.m4a in Resources */,
 				63C019F31C58E4AD001F4187 /* note5.wav in Resources */,
 				63C019F11C58E4AD001F4187 /* note3.wav in Resources */,
 				63C019EF1C58E4AD001F4187 /* note1.wav in Resources */,
+				14B930EE22F24F1C0069BE0F /* red.m4a in Resources */,
 				63C019F21C58E4AD001F4187 /* note4.wav in Resources */,
 				63C019F01C58E4AD001F4187 /* note2.wav in Resources */,
 				63C019F51C58E4AD001F4187 /* note7.wav in Resources */,
 				63C019D31C58DF76001F4187 /* LaunchScreen.storyboard in Resources */,
 				63C019D01C58DF76001F4187 /* Assets.xcassets in Resources */,
+				14B930F422F4EB710069BE0F /* gameStarts.m4a in Resources */,
+				14B930F622F4EB710069BE0F /* youWon.m4a in Resources */,
+				14B930F722F4EB710069BE0F /* youLost.m4a in Resources */,
+				14B930E922F24F1C0069BE0F /* yellow.m4a in Resources */,
 				AD6F1CCA20EBCF7200198C34 /* README.md in Resources */,
+				14B930EF22F24F1C0069BE0F /* darkGreen.m4a in Resources */,
+				14B930F522F4EB710069BE0F /* nextLevel.m4a in Resources */,
+				14B930EB22F24F1C0069BE0F /* orange.m4a in Resources */,
 				63C019CE1C58DF76001F4187 /* Main.storyboard in Resources */,
+				14B930ED22F24F1C0069BE0F /* blue.m4a in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,9 +355,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = THL5LK5CWS;
 				INFOPLIST_FILE = Xylophone/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.YourName.Xylophone;
+				PRODUCT_BUNDLE_IDENTIFIER = com.YourName.MemoryMaster;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -322,9 +368,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = THL5LK5CWS;
 				INFOPLIST_FILE = Xylophone/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.YourName.Xylophone;
+				PRODUCT_BUNDLE_IDENTIFIER = com.YourName.MemoryMaster;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
